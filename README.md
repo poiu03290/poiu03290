@@ -6,16 +6,16 @@
 ### <div align="center">안녕하세요 권혁입니다. 반갑습니다.</div>  
   
 
-- 🔭 제 깃헙주소는요? [Github poiu03290](https://https://github.com/poiu03290)  
+- 🔭 저와 컨택을 원하시면 [poiu03290@naver.com]() 으로 연락주세요😀  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 제 깃헙주소는요? [Github poiu03290](https://https://github.com/poiu03290)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ⚡ 제가 공부한 기록입니다!😃 [Notion](https://west-basket-5c8.notion.site/React-bc4a1ae4c7474925b719a49ad3462188)  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+**<div align="center">코딩코딩코딩</div>**  
   
 
 <br/>  
@@ -67,15 +67,6 @@
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -97,30 +88,19 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
 <br />
 
 ----
