@@ -1,5 +1,4 @@
-### <div align="center">Hi.</div>  
-
+### <div align="left">Hi there 👋</div>  
 
 - ⚡ Interests😃
   - HTML / CSS / SCSS
