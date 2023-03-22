@@ -1,12 +1,12 @@
 ### <div align="left">Hi there 👋</div>  
 
 - ⚡ Interests😃
-  - HTML / CSS / SCSS
+  - HTML / CSS
   - DOM
-  - Javascript
-  - React / React Native
+  - JavaScript
+  - TypeScript
+  - React
   - SEO
-  - MySQL
   
 
-- 🔭 ASK ME [poiu03290@naver.com]() 
+- 🔭 ASK ME [poiu03290@gmail.com]() 
