@@ -10,3 +10,4 @@
   
 
 - 🔭 ASK ME [poiu03290@gmail.com]() 
+- ✒️ BLOG [https://velog.io/@poiu0329]()
