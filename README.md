@@ -2,7 +2,6 @@
 
 - ⚡ Interests😃
   - HTML / CSS
-  - DOM
   - JavaScript
   - TypeScript
   - React
