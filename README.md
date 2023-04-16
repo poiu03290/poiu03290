@@ -9,5 +9,5 @@
   
 
 - 🔭 ASK ME [poiu03290@gmail.com]() 
-- ✒️ BLOG [[https://velog.io/@poiu0329](https://velog.io/@poiu0329)]
-- LinkedIn [https://www.linkedin.com/in/devkwonhyuk/]
+- ✒️ BLOG [https://velog.io/@poiu0329](https://velog.io/@poiu0329)
+- LinkedIn https://www.linkedin.com/in/devkwonhyuk/
