@@ -5,7 +5,7 @@
   - JavaScript
   - TypeScript
   - React
-  - 
+  - Next.js
   - SEO
   
 
