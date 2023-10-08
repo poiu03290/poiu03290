@@ -3,10 +3,7 @@
 - ⚡ Interests😃
   - HTML / CSS
   - JavaScript
-  - TypeScript
   - React
-  - Next.js
-  - SEO
   
 
 - 🔭 ASK ME [poiu03290@gmail.com]() 
