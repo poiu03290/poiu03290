@@ -1,11 +1,4 @@
 ### <div align="left">Hi there 👋</div>  
-
-- ⚡ Interests😃
-  - HTML / CSS
-  - JavaScript
-  - React
   
 
 - 🔭 ASK ME [poiu03290@gmail.com]() 
-- ✒️ BLOG [https://velog.io/@poiu0329](https://velog.io/@poiu0329)
-- LinkedIn https://www.linkedin.com/in/devkwonhyuk/
